@@ -1,0 +1,91 @@
+export const products = [
+    {
+        id: 1,
+        name: "Wireless Headphones",
+        category: "Electronics",
+        brand: "Brand A",
+        price: 99.99,
+        rating: 4.5,
+        imageUrl:"https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+        id: 2,
+        name: "Bluetooth Speaker",
+        category: "Electronics",
+        brand: "Brand B",
+        price: 49.99,
+        rating: 4.0,
+        imageUrl:"https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+        id: 3,
+        name: "Running Shoes",
+        category: "Footwear",
+        brand: "Brand C",
+        price: 59.99,
+        rating: 4.9,
+        imageUrl:  "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+    },
+    {
+        id: 4,
+        name: "Smartphone",
+        category: "Electronics",
+        brand: "Brand D",
+        price: 499.99,
+        rating: 4.8,
+        imageUrl: "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    },
+    {
+        id: 5,
+        name: "Leather Jacket",
+        category: "Clothing",
+        brand: "Brand E",
+        price: 199.99,
+        rating: 1,
+        imageUrl: "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+    },    {
+        id: 6,
+        name: "Wireless Headphones",
+        category: "Electronics",
+        brand: "Brand A",
+        price: 80.99,
+        rating: 4.1,
+        imageUrl:"https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+        id: 7,
+        name: "Bluetooth Speaker",
+        category: "Electronics",
+        brand: "Brand B",
+        price: 69.99,
+        rating: 3.0,
+        imageUrl:"https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg"
+    },
+    {
+        id: 8,
+        name: "Running Shoes",
+        category: "Footwear",
+        brand: "Brand C",
+        price: 59.99,
+        rating: 4.2,
+        imageUrl:  "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+    },
+    {
+        id: 9,
+        name: "Smartphone",
+        category: "Electronics",
+        brand: "Brand D",
+        price: 49.99,
+        rating: 2.8,
+        imageUrl: "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+    },
+    {
+        id: 10,
+        name: "Leather Jacket",
+        category: "Clothing",
+        brand: "Brand E",
+        price: 99.99,
+        rating: 5,
+        imageUrl: "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+    }
+];
